@@ -1,8 +1,5 @@
 ### Ola! 👋
 
-- 🔭 Atualmente estou trabalhando com desenvolvimento de aplicações Desktop para Windows.
-- 🌱 Estudando Desenvolvimento Web com C#
-
 ##
 <div align="center">
   <a href="https://github.com/Gustavo00-dev">
